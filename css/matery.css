@@ -2155,7 +2155,7 @@ body.DarkMode .theme-btn {
     line-height: 2;
     padding: 0 5px !important;
     text-decoration: unset !important;
-    transition: background-color 0.2s ease-in-out;
+/*    transition: background-color 0.2s ease-in-out;*/
 }
 body.DarkMode .theme-btn:hover {
     background: #666;
